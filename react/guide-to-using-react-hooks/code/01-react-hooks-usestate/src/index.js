@@ -17,7 +17,7 @@ function LightBulb() {
         <LightbulbSvg fillColor={fillColor} />
       </div>
 
-      <button onClick={setOff}>Off</button>
+      <button onClick={setOff}>Offfffff</button>
       <button onClick={setOn}>On</button>
     </div>
   );
